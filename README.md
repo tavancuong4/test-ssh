@@ -1,1 +1,1 @@
-# test-ssh eddit my hubt
+# test-ssh edit my computer
